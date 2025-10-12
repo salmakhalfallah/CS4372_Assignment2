@@ -15,7 +15,7 @@ This assignment involves building and comparing tree models in Python using stan
 
 # How to Run Code
 
-The code is available at: [Google Notebook link here]
+The code is available at: [https://colab.research.google.com/drive/1qLcTolJIbKilOxrLL18EMIEcsz1PWeCq?usp=sharing#scrollTo=cSkqnssIDR8U]
 
 # Dataset
 
